@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **piyushpandeya013@gmail.com**
 
-- 📄 Know about my experiences [Currently a student (Bachelors, 5th semester, Pokhara University)](Currently a student (Bachelors, 5th semester, Pokhara University))
+- 📄 Know about my experiences [Currently a student (Bachelors, 5th semester, Pokhara University)]
 
 - ⚡ Fun fact **I started coding with Python mini-projects. I believe every small step counts in the journey to becoming a developer**
 
